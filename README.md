@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <h3>Things I code with</h3>
 <p>
-  <img width="50px" alt="Swift" src="https://simpleicons.org/icons/swift.svg?style=flat-square&logo=swift&logoColor=blue&logoWidth=40" />
+  <img width="50px" alt="Swift" src="https://img.shields.io/badge/-Swift-blue?style=flat-square&logo=swift&logoColor=blue" />
 </p>
 <!--
 **FominNickolai/FominNickolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
