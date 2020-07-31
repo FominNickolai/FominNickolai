@@ -3,7 +3,7 @@
 ## ⚡ Technologies
 
 <p>
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-blue.svg?style=for-the-badge&logo=Xcode" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-orange.svg?style=for-the-badge&logo=xcode" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-5.2-orange.svg?style=for-the-badge&logo=swift" />
   <img alt="Cocoapods" src="https://img.shields.io/badge/Cocoapods-%230077B5.svg?style=for-the-badge&logo=cocoapods" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=GitHub" />
