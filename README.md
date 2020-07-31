@@ -3,7 +3,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-5.2-orange.svg?style=for-the-badge&logo=swift" />
-  <img alt="Kingfisher" src="https://img.shields.io/cocoapods/l/Kingfisher?style=for-the-badge&logo=swift" />
+  <img alt="Kingfisher" src="https://img.shields.io/cocoapods/l/Kingfisher?style=for-the-badge&logo=kingfisher" />
 </p>
 <!--
 **FominNickolai/FominNickolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
