@@ -7,8 +7,8 @@
   <img alt="Cocoapods" src="https://img.shields.io/badge/Cocoapods-%230077B5.svg?style=for-the-badge&logo=cocoapods" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=GitHub" />
   <img alt="Twilio" src="https://img.shields.io/badge/-Twilio-blue.svg?style=for-the-badge&logo=Twilio" />
-  <img alt="Sweden BankID" src="https://img.shields.io/badge/-🇸 BankID-225971.svg?style=for-the-badge" />
-  <img alt="Norway BankID" src="https://img.shields.io/badge/-🇳 BankID-4a78b1.svg?style=for-the-badge" />
+  <img alt="Sweden BankID" src="https://img.shields.io/badge/-Sweden BankID-225971.svg?style=for-the-badge" />
+  <img alt="Norway BankID" src="https://img.shields.io/badge/-Norway BankID-4a78b1.svg?style=for-the-badge" />
 </p>
 <!--
 **FominNickolai/FominNickolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
