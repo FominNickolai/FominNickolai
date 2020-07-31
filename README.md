@@ -1,6 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-<h3>Things I code with</h3>
+## ⚡ Technologies
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-5.2-orange.svg?style=for-the-badge&logo=swift" />
   <img alt="Cocoapods" src="https://img.shields.io/badge/Cocoapods-%230077B5.svg?style=for-the-badge&logo=kingfisher" />
